@@ -1,6 +1,6 @@
 rockspec_format = '3.0'
 package = 'lua-resty-jwt'
-version = 'dev-0'
+version = 'rsaoaep-0'
 source = {
   url = 'file://.'
 }
